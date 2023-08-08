@@ -13,10 +13,12 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ![Design of Desktop versions](./design/desktop-design.jpg)
 ![Design of Mobile versions](./design/mobile-design.jpg)
+![Design of Mobile versions](./design/active-states.jpg)
+
 
 ### Links
 
-- Live Site URL: [Github live page]()
+- Live Site URL: [Github live page](https://anano24.github.io/order-summary-component/#)
 
 ## My process
 
